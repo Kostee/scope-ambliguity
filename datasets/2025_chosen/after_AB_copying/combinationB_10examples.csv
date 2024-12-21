@@ -1,0 +1,21 @@
+idx,sentence,Option A,Option B,gold_ans,gold_scope_label,OP1,OP1_type,OP2,OP2_type
+358,A security guard patrols each floor of the building.,A security guard patrols each floor of the building.,A security guard patrols only some floors of the building.,A,surface,a,indefinite,each,universal
+358,A security guard patrols each floor of the building.,A security guard patrols only some floors of the building.,A security guard patrols each floor of the building.,B,surface,a,indefinite,each,universal
+383,A mailman delivers to all houses on the street.,A mailman delivers to all houses on the street.,A mailman delivers to only some houses on the street.,A,surface,a,indefinite,all,universal
+383,A mailman delivers to all houses on the street.,A mailman delivers to only some houses on the street.,A mailman delivers to all houses on the street.,B,surface,a,indefinite,all,universal
+490,Some birds can be seen in any part of the world.,Some birds can be seen in any part of the world.,Some birds can only be seen in specific parts of the world.,A,surface,some,existential,any,universal
+490,Some birds can be seen in any part of the world.,Some birds can only be seen in specific parts of the world.,Some birds can be seen in any part of the world.,B,surface,some,existential,any,universal
+641,One of the songs was played by all radio stations.,One of the songs was played by all radio stations.,One of the songs was played by only some radio stations.,A,surface,one,number,all,universal
+641,One of the songs was played by all radio stations.,One of the songs was played by only some radio stations.,One of the songs was played by all radio stations.,B,surface,one,number,all,universal
+492,A few stars are visible from every location on Earth.,A few stars are visible from every location on Earth.,A few stars are visible from only specific locations on Earth.,A,surface,a few,existential,every,universal
+492,A few stars are visible from every location on Earth.,A few stars are visible from only specific locations on Earth.,A few stars are visible from every location on Earth.,B,surface,a few,existential,every,universal
+501,Some movies are watched every weekend.,Some movies are watched every weekend.,Some movies are watched only occasionally.,A,surface,some,existential,every,universal
+501,Some movies are watched every weekend.,Some movies are watched only occasionally.,Some movies are watched every weekend.,B,surface,some,existential,every,universal
+634,Six players were selected for all the matches.,Six players were selected for all the matches.,Six players were selected for only some of the matches.,A,surface,six,number,all,universal
+634,Six players were selected for all the matches.,Six players were selected for only some of the matches.,Six players were selected for all the matches.,B,surface,six,number,all,universal
+647,Two chefs cooked for all the guests at the party.,Two chefs cooked for all the guests at the party.,Two chefs cooked for only some of the guests at the party.,A,surface,two,number,all,universal
+647,Two chefs cooked for all the guests at the party.,Two chefs cooked for only some of the guests at the party.,Two chefs cooked for all the guests at the party.,B,surface,two,number,all,universal
+659,One of the engineers is responsible for all the projects.,One of the engineers is responsible for all the projects.,One of the engineers is responsible for only some of the projects.,A,surface,one,number,all,universal
+659,One of the engineers is responsible for all the projects.,One of the engineers is responsible for only some of the projects.,One of the engineers is responsible for all the projects.,B,surface,one,number,all,universal
+661,One of the artists has paintings in all the galleries.,One of the artists has paintings in all the galleries.,One of the artists has paintings in only some of the galleries.,A,surface,one,number,all,universal
+661,One of the artists has paintings in all the galleries.,One of the artists has paintings in only some of the galleries.,One of the artists has paintings in all the galleries.,B,surface,one,number,all,universal

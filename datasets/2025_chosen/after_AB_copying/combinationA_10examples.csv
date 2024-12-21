@@ -1,0 +1,21 @@
+idx,sentence,Option A,Option B,gold_ans,gold_scope_label,OP1,OP1_type,OP2,OP2_type
+215,The director assigns each actor to a role in the play.,Each actor is assigned exactly one role.,Each actor is assigned multiple roles.,A,surface,each,universal,a,indefinite
+215,The director assigns each actor to a role in the play.,Each actor is assigned multiple roles.,Each actor is assigned exactly one role.,B,surface,each,universal,a,indefinite
+1077,"Each city was visited by exactly two of the following tourists - John, Mary, Peter.",Each city was visited by exactly two tourists.,Each city was visited by more than two tourists.,A,surface,each,universal,exactly two,number
+1077,"Each city was visited by exactly two of the following tourists - John, Mary, Peter.",Each city was visited by more than two tourists.,Each city was visited by exactly two tourists.,B,surface,each,universal,exactly two,number
+1054,Every tree has exactly three branches.,Each tree has exactly three branches.,Each tree has more than three branches.,A,surface,every,universal,exactly three,number
+1054,Every tree has exactly three branches.,Each tree has more than three branches.,Each tree has exactly three branches.,B,surface,every,universal,exactly three,number
+214,Every chef in the competition uses a different cooking technique.,Each chef uses exactly one technique.,Each chef uses multiple techniques.,A,surface,every,universal,a,indefinite
+214,Every chef in the competition uses a different cooking technique.,Each chef uses multiple techniques.,Each chef uses exactly one technique.,B,surface,every,universal,a,indefinite
+1099,Each shelf is occupied by exactly one of the books.,Each shelf is occupied by exactly one book.,Each shelf is occupied by multiple books.,A,surface,each,universal,exactly one,number
+1099,Each shelf is occupied by exactly one of the books.,Each shelf is occupied by multiple books.,Each shelf is occupied by exactly one book.,B,surface,each,universal,exactly one,number
+219,Every athlete competes in a sport.,Each athlete competes in exactly one sport.,Each athlete competes in multiple sports.,A,surface,every,universal,a,indefinite
+219,Every athlete competes in a sport.,Each athlete competes in multiple sports.,Each athlete competes in exactly one sport.,B,surface,every,universal,a,indefinite
+1072,Each artist paints with one color.,Each artist paints with exactly one color.,Each artist paints with multiple colors.,A,surface,each,universal,one,number
+1072,Each artist paints with one color.,Each artist paints with multiple colors.,Each artist paints with exactly one color.,B,surface,each,universal,one,number
+1029,"On each day of the week, exactly one meal is served in the cafeteria.","On each day, exactly one meal is served.","On each day, multiple meals are served.",A,surface,each,universal,exactly one,number
+1029,"On each day of the week, exactly one meal is served in the cafeteria.","On each day, multiple meals are served.","On each day, exactly one meal is served.",B,surface,each,universal,exactly one,number
+195,Each chef in the restaurant is responsible for a dish.,Each chef is responsible for exactly one dish.,Each chef is responsible for multiple dishes.,A,surface,each,universal,a,indefinite
+195,Each chef in the restaurant is responsible for a dish.,Each chef is responsible for multiple dishes.,Each chef is responsible for exactly one dish.,B,surface,each,universal,a,indefinite
+235,Each team plays in a stadium.,Each team plays in exactly one stadium.,Each team plays in multiple stadiums.,A,surface,each,universal,a,indefinite
+235,Each team plays in a stadium.,Each team plays in multiple stadiums.,Each team plays in exactly one stadium.,B,surface,each,universal,a,indefinite

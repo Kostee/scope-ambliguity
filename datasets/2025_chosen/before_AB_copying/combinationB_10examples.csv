@@ -1,0 +1,11 @@
+idx,sentence,gold_scope_label,OP1,OP1_type,OP2,OP2_type,OP_rel,relation,Option A,Option B,gold_ans
+358,A security guard patrols each floor of the building.,surface,a,indefinite,each,universal,patrols,THEME,A security guard patrols each floor of the building.,A security guard patrols only some floors of the building.,A
+383,A mailman delivers to all houses on the street.,surface,a,indefinite,all,universal,delivers to,GOAL,A mailman delivers to all houses on the street.,A mailman delivers to only some houses on the street.,A
+490,Some birds can be seen in any part of the world.,surface,some,existential,any,universal,can be seen in,LOCUS,Some birds can be seen in any part of the world.,Some birds can only be seen in specific parts of the world.,A
+641,One of the songs was played by all radio stations.,surface,one,number,all,universal,was played by,AGENT,One of the songs was played by all radio stations.,One of the songs was played by only some radio stations.,A
+492,A few stars are visible from every location on Earth.,surface,a few,existential,every,universal,are visible from,SOURCE,A few stars are visible from every location on Earth.,A few stars are visible from only specific locations on Earth.,A
+501,Some movies are watched every weekend.,surface,some,existential,every,universal,every weekend,TIME,Some movies are watched every weekend.,Some movies are watched only occasionally.,A
+634,Six players were selected for all the matches.,surface,six,number,all,universal,were selected for,PURPOSE,Six players were selected for all the matches.,Six players were selected for only some of the matches.,A
+647,Two chefs cooked for all the guests at the party.,surface,two,number,all,universal,cooked for,BENEFICIARY,Two chefs cooked for all the guests at the party.,Two chefs cooked for only some of the guests at the party.,A
+659,One of the engineers is responsible for all the projects.,surface,one,number,all,universal,is responsible for,TOPIC,One of the engineers is responsible for all the projects.,One of the engineers is responsible for only some of the projects.,A
+661,One of the artists has paintings in all the galleries.,surface,one,number,all,universal,has,HAVE,One of the artists has paintings in all the galleries.,One of the artists has paintings in only some of the galleries.,A

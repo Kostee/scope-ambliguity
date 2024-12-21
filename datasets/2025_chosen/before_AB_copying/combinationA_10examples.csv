@@ -1,0 +1,11 @@
+idx,sentence,gold_scope_label,OP1,OP1_type,OP2,OP2_type,OP_rel,relation,Option A,Option B,gold_ans
+215,The director assigns each actor to a role in the play.,surface,each,universal,a,indefinite,to,GOAL,Each actor is assigned exactly one role.,Each actor is assigned multiple roles.,A
+1077,"Each city was visited by exactly two of the following tourists - John, Mary, Peter.",surface,each,universal,exactly two,number,was visited by,AGENT,Each city was visited by exactly two tourists.,Each city was visited by more than two tourists.,A
+1054,Every tree has exactly three branches.,surface,every,universal,exactly three,number,has,HAVE,Each tree has exactly three branches.,Each tree has more than three branches.,A
+214,Every chef in the competition uses a different cooking technique.,surface,every,universal,a,indefinite,uses,THEME,Each chef uses exactly one technique.,Each chef uses multiple techniques.,A
+1099,Each shelf is occupied by exactly one of the books.,surface,each,universal,exactly one,number,is occupied by,INSTRUMENT,Each shelf is occupied by exactly one book.,Each shelf is occupied by multiple books.,A
+219,Every athlete competes in a sport.,surface,every,universal,a,indefinite,competes in,CIRCUMSTANCE,Each athlete competes in exactly one sport.,Each athlete competes in multiple sports.,A
+1072,Each artist paints with one color.,surface,each,universal,one,number,paints with,INSTRUMENT,Each artist paints with exactly one color.,Each artist paints with multiple colors.,A
+1029,"On each day of the week, exactly one meal is served in the cafeteria.",surface,each,universal,exactly one,number,on each day,TIME,"On each day, exactly one meal is served.","On each day, multiple meals are served.",A
+195,Each chef in the restaurant is responsible for a dish.,surface,each,universal,a,indefinite,is responsible for,TOPIC,Each chef is responsible for exactly one dish.,Each chef is responsible for multiple dishes.,A
+235,Each team plays in a stadium.,surface,each,universal,a,indefinite,plays in,LOCUS,Each team plays in exactly one stadium.,Each team plays in multiple stadiums.,A

@@ -1,0 +1,21 @@
+idx,sentence,Option A,Option B,gold_ans,gold_scope_label,OP1,OP1_type,OP2,OP2_type
+491,Some challenges are faced by all businesses.,Some challenges are faced by all businesses.,Some challenges are faced by only a few businesses.,A,inverse,some,existential,all,universal
+491,Some challenges are faced by all businesses.,Some challenges are faced by only a few businesses.,Some challenges are faced by all businesses.,B,inverse,some,existential,all,universal
+282,"She has exactly four classes with Mr. Smith, and exactly one with each of the other teachers.","She has exactly four classes with Mr. Smith, and exactly one with each of the other teachers.",She has classes with fewer than the specified teachers.,A,inverse,exactly one,number,each,universal
+282,"She has exactly four classes with Mr. Smith, and exactly one with each of the other teachers.",She has classes with fewer than the specified teachers.,"She has exactly four classes with Mr. Smith, and exactly one with each of the other teachers.",B,inverse,exactly one,number,each,universal
+303,One slice per person was served.,One slice per person was served.,Multiple slices per person were served.,A,inverse,one,number,per,universal
+303,One slice per person was served.,Multiple slices per person were served.,One slice per person was served.,B,inverse,one,number,per,universal
+506,Some songs touch every heart.,Some songs touch every heart.,Some songs touch only specific hearts.,A,inverse,some,existential,every,universal
+506,Some songs touch every heart.,Some songs touch only specific hearts.,Some songs touch every heart.,B,inverse,some,existential,every,universal
+355,A different movie will be shown each night.,A different movie will be shown each night.,A different movie will not be shown each night.,A,inverse,a,indefinite,each,universal
+355,A different movie will be shown each night.,A different movie will not be shown each night.,A different movie will be shown each night.,B,inverse,a,indefinite,each,universal
+448,Several solutions exist for every problem.,Several solutions exist for every problem.,Several solutions exist for only a few problems.,A,inverse,several,existential,every,universal
+448,Several solutions exist for every problem.,Several solutions exist for only a few problems.,Several solutions exist for every problem.,B,inverse,several,existential,every,universal
+265,The company provides at least one training session for each employee.,The company provides at least one training session for each employee.,The company provides fewer than one training session for each employee.,A,inverse,at least one,number,each,universal
+265,The company provides at least one training session for each employee.,The company provides fewer than one training session for each employee.,The company provides at least one training session for each employee.,B,inverse,at least one,number,each,universal
+284,The committee must include at least one representative of each of the five departments.,The committee must include at least one representative of each of the five departments.,The committee does not include representatives from all departments.,A,inverse,at least one,number,each,universal
+284,The committee must include at least one representative of each of the five departments.,The committee does not include representatives from all departments.,The committee must include at least one representative of each of the five departments.,B,inverse,at least one,number,each,universal
+326,Groups A and B will receive two new members each.,Groups A and B will receive two new members each.,Groups A and B will receive fewer than two new members each.,A,inverse,two,number,each,universal
+326,Groups A and B will receive two new members each.,Groups A and B will receive fewer than two new members each.,Groups A and B will receive two new members each.,B,inverse,two,number,each,universal
+457,Some lessons can be learned from any experience.,Some lessons can be learned from any experience.,Some lessons cannot be learned from every experience.,A,inverse,some,existential,any,universal
+457,Some lessons can be learned from any experience.,Some lessons cannot be learned from every experience.,Some lessons can be learned from any experience.,B,inverse,some,existential,any,universal

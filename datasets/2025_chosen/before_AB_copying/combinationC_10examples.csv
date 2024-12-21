@@ -1,0 +1,11 @@
+idx,sentence,gold_scope_label,OP1,OP1_type,OP2,OP2_type,OP_rel,relation,Option A,Option B,gold_ans
+491,Some challenges are faced by all businesses.,inverse,some,existential,all,universal,are faced by,AGENT,Some challenges are faced by all businesses.,Some challenges are faced by only a few businesses.,A
+282,"She has exactly four classes with Mr. Smith, and exactly one with each of the other teachers.",inverse,exactly one,number,each,universal,with,AGENT-ANCILLARY,"She has exactly four classes with Mr. Smith, and exactly one with each of the other teachers.",She has classes with fewer than the specified teachers.,A
+303,One slice per person was served.,inverse,one,number,per,universal,per,DISTRIBUTIVE OP,One slice per person was served.,Multiple slices per person were served.,A
+506,Some songs touch every heart.,inverse,some,existential,every,universal,touch,THEME,Some songs touch every heart.,Some songs touch only specific hearts.,A
+355,A different movie will be shown each night.,inverse,a,indefinite,each,universal,each night,TIME,A different movie will be shown each night.,A different movie will not be shown each night.,A
+448,Several solutions exist for every problem.,inverse,several,existential,every,universal,exist for,PURPOSE,Several solutions exist for every problem.,Several solutions exist for only a few problems.,A
+265,The company provides at least one training session for each employee.,inverse,at least one,number,each,universal,for,BENEFICIARY,The company provides at least one training session for each employee.,The company provides fewer than one training session for each employee.,A
+284,The committee must include at least one representative of each of the five departments.,inverse,at least one,number,each,universal,of,WHOLE,The committee must include at least one representative of each of the five departments.,The committee does not include representatives from all departments.,A
+326,Groups A and B will receive two new members each.,inverse,two,number,each,universal,each,FLOATING OP,Groups A and B will receive two new members each.,Groups A and B will receive fewer than two new members each.,A
+457,Some lessons can be learned from any experience.,inverse,some,existential,any,universal,can be learned from,SOURCE,Some lessons can be learned from any experience.,Some lessons cannot be learned from every experience.,A
