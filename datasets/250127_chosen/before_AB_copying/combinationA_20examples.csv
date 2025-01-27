@@ -1,0 +1,21 @@
+,idx,sentence,gold_scope_label,OP1,OP1_type,OP2,OP2_type,OP_rel,relation,Option A,Option B,gold_ans
+0,175,Each of the five friends ordered a dish at the restaurant.,surface,each,universal,a,indefinite,ordered,THEME,there is more than one dish in total,there is exactly one dish in total,A
+1,213,The coach assigns each player to a position on the field.,surface,each,universal,a,indefinite,to,GOAL,not all players are assigned to the same position,all players are assigned to the same position,A
+2,214,Every chef in the competition uses a different cooking technique.,surface,every,universal,a,indefinite,uses,THEME,"in total, there are more than two cooking techniques","in total, there are only two cooking techniques",A
+3,242,Every student received a grade on the test.,surface,every,universal,a,indefinite,received,THEME,not all the students received the same grade,all the students received the same grade,A
+4,1074,Each house has exactly five windows.,surface,each,universal,exactly five,number,has,HAVE,Not all houses have the exact same five windows,All houses have the exact same five windows,A
+5,182,Each student in the class has a textbook.,surface,each,universal,a,indefinite,has,HAVE,there is more than one textbook in total for the class,there is only one textbook in total for the class,A
+6,187,Every planet in the solar system has an orbit.,surface,every,universal,a,indefinite,has,HAVE,there is more than one orbit across all planets in the solar system,there is only one orbit across all planets in the solar system,A
+7,180,Every country in the world has a flag.,surface,every,universal,a,indefinite,has,HAVE,there is more than one flag in total,there is exactly one flag in total,A
+8,1068,Each player gets exactly two cards.,surface,each,universal,exactly two,number,gets,THEME,Not all players get the exact same two cards,All players get the exact same two cards,A
+9,1090,Each participant receives exactly one prize.,surface,each,universal,exactly one,number,receives,THEME,not all participants receive the same prize,all participants receive the same prize,A
+10,1099,Each shelf is occupied by exactly one of the books.,surface,each,universal,exactly one,number,is occupied by,INSTRUMENT,there is more than one book in total,there is exactly one book in total,A
+11,1057,Each box contains exactly six balls.,surface,each,universal,exactly six,number,contains,THEME,not all boxes contain the exact same six balls,all boxes contain the exact same six balls,A
+12,1052,Every car has exactly four tires.,surface,every,universal,exactly four,number,has,HAVE,not all cars have the exact same four tires,all cars have the exact same four tires,A
+13,1054,Every tree has exactly three branches.,surface,every,universal,exactly three,number,has,HAVE,not all trees have the exact same three branches,all trees have the exact same three branches,A
+14,1072,Each artist paints with one color.,surface,each,universal,one,number,paints with,INSTRUMENT,Not all artists paint with the same color,All artists paint with the same color,A
+15,219,Every athlete competes in a sport.,surface,every,universal,a,indefinite,competes in,CIRCUMSTANCE,not all the athletes compete in the same sport,all the athletes compete in the same sport,A
+16,220,Each of the five teams will play on a different day.,surface,each,universal,a,indefinite,will play on,TIME,there is more than one day in total during which the games take place,there is exactly one day in total during which the games take place,A
+17,1081,Each week exactly one of the employees is on vacation.,surface,each,universal,exactly one,number,each week,TIME,not all weeks involve the same employee on vacation,all weeks involve the same employee on vacation,A
+18,235,Each team plays in a stadium.,surface,each,universal,a,indefinite,plays in,LOCUS,not all teams play in the same stadium,all teams play in the same stadium,A
+19,195,Each chef in the restaurant is responsible for a dish.,surface,each,universal,a,indefinite,is responsible for,TOPIC,there is more than one dish in total,there is exactly one dish in total,A

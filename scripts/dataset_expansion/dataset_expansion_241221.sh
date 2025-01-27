@@ -3,11 +3,11 @@
 echo "Bash file started successfully"
 
 # OpenAI API key
-OPENAI_API_KEY="<type Open AI API key here"
+OPENAI_API_KEY="<type Open AI API key here>"
 
 # Paths to input files and output directory
-INPUT_DIR="datasets/2025_chosen/after_AB_copying"
-OUTPUT_DIR="datasets/2025_expanded"
+INPUT_DIR="datasets/241221_chosen/after_AB_copying"
+OUTPUT_DIR="datasets/241221_expanded"
 
 # Ensure the output directory exists
 mkdir -p "$OUTPUT_DIR"
@@ -21,7 +21,7 @@ do
     BASENAME=$(basename "$FILE" .csv)
     echo "Processing $BASENAME..."
 
-    python scripts/dataset_expansion/exp1_dataset_expansion_2025updated.py \
+    python scripts/dataset_expansion/exp1_dataset_expansion_241221updated.py \
         --openai-api-key "$OPENAI_API_KEY" \
         --source-dataset-filepath "$INPUT_DIR/$FILE" \
         --generated-data-directory "$OUTPUT_DIR" \

@@ -1,0 +1,21 @@
+,idx,sentence,gold_scope_label,OP1,OP1_type,OP2,OP2_type,OP_rel,relation,Option A,Option B,gold_ans
+0,358,A security guard patrols each floor of the building.,surface,a,indefinite,each,universal,patrols,THEME,All the floors are patrolled by the same security guard,Not all of the floors are patrolled by the same security guard,A
+1,378,A gardener waters every plant in the garden.,surface,a,indefinite,every,universal,waters,THEME,"in total, there is exactly one gardener watering the plants","in total, there is more than one gardener watering the plants",A
+2,384,A mechanic checks every car in the garage.,surface,a,indefinite,every,universal,checks,THEME,the same mechanic checks all the cars,different mechanics check different cars,A
+3,383,A mailman delivers to all houses on the street.,surface,a,indefinite,all,universal,delivers to,GOAL,the same mailman delivers to all the houses,different mailmen deliver to different houses,A
+4,341,A chef prepares all the meals.,surface,a,indefinite,all,universal,prepares,THEME ,"in total, there is exactly one chef preparing the meals","in total, there is more than one chef preparing the meals",A
+5,349,A lifeguard watches all the swimmers.,surface,a,indefinite,all,universal,watches,THEME,"in total, there is exactly one lifeguard watching the swimmers","in total, there is more than one lifeguard watching the swimmers",A
+6,682,One method was used by all researchers in the study.,surface,one,number,all,universal,was used by,AGENT,Every researcher used the same method,Not every researcher used the same method,A
+7,632,One book was read by every member of the club.,surface,one,number,every,universal,was read by,AGENT,Every member read the same book,Not every member read the same book,A
+8,703,Two songs were played at all concerts during the tour.,surface,two,number,all,universal,were played by,AGENT,All concerts played the same two songs,Not all concerts played the same two songs,A
+9,490,Some birds can be seen in any part of the world.,surface,some,existential,any,universal,can be seen in,LOCUS,The same birds can be seen in every part of the world.,Different birds can be seen in different parts of the world.,A
+10,496,Some songs are played every concert.,surface,some,existential,every,universal,every concert,TIME,"each concert, the same songs are played","each concert, different songs are played",A
+11,460,A few key players influence every game.,surface,a few,existential,every,universal,influence,THEME,The same key players influence every game.,Different key players influence each game.,A
+12,492,A few stars are visible from every location on Earth.,surface,a few,existential,every,universal,are visible from,SOURCE,The same stars are visible from every location on Earth.,Different stars are visible from different locations on Earth.,A
+13,634,Six players were selected for all the matches.,surface,six,number,all,universal,were selected for,PURPOSE,The same six players were selected for all the matches,Different six players were selected for each match,A
+14,647,Two chefs cooked for all the guests at the party.,surface,two,number,all,universal,cooked for,BENEFICIARY,the same two chefs cooked for all the guests at the party,a different pair of chefs cooked for each guest at the party,A
+15,626,Two of the scientists won every award.,surface,two,number,every,universal,won,THEME,The same two scientists won every award,Different scientists won different awards,A
+16,643,Two teachers will supervise all the students.,surface,two,number,all,universal,will supervise,THEME,the same two teachers will supervise all the students,a different pair of teachers will supervise each student,A
+17,659,One of the engineers is responsible for all the projects.,surface,one,number,all,universal,is responsible for,TOPIC,the same engineer is responsible for all the projects,different engineers are responsible for different projects,A
+18,653,One of the paintings was displayed in all galleries.,surface,one,number,all,universal,was displayed in,LOCUS,every gallery displayed the same painting,not every gallery displayed the same painting,A
+19,683,Three of the ingredients are found in every recipe.,surface,three,number,every,universal,are found in,LOCUS,every recipe contains the same three ingredients,not every recipe contains the same three ingredients,A

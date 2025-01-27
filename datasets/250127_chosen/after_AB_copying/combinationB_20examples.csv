@@ -1,0 +1,41 @@
+idx,sentence,Option A,Option B,gold_ans,gold_scope_label,OP1,OP1_type,OP2,OP2_type
+358,A security guard patrols each floor of the building.,All the floors are patrolled by the same security guard,Not all of the floors are patrolled by the same security guard,A,surface,a,indefinite,each,universal
+358,A security guard patrols each floor of the building.,Not all of the floors are patrolled by the same security guard,All the floors are patrolled by the same security guard,B,surface,a,indefinite,each,universal
+378,A gardener waters every plant in the garden.,"in total, there is exactly one gardener watering the plants","in total, there is more than one gardener watering the plants",A,surface,a,indefinite,every,universal
+378,A gardener waters every plant in the garden.,"in total, there is more than one gardener watering the plants","in total, there is exactly one gardener watering the plants",B,surface,a,indefinite,every,universal
+384,A mechanic checks every car in the garage.,the same mechanic checks all the cars,different mechanics check different cars,A,surface,a,indefinite,every,universal
+384,A mechanic checks every car in the garage.,different mechanics check different cars,the same mechanic checks all the cars,B,surface,a,indefinite,every,universal
+383,A mailman delivers to all houses on the street.,the same mailman delivers to all the houses,different mailmen deliver to different houses,A,surface,a,indefinite,all,universal
+383,A mailman delivers to all houses on the street.,different mailmen deliver to different houses,the same mailman delivers to all the houses,B,surface,a,indefinite,all,universal
+341,A chef prepares all the meals.,"in total, there is exactly one chef preparing the meals","in total, there is more than one chef preparing the meals",A,surface,a,indefinite,all,universal
+341,A chef prepares all the meals.,"in total, there is more than one chef preparing the meals","in total, there is exactly one chef preparing the meals",B,surface,a,indefinite,all,universal
+349,A lifeguard watches all the swimmers.,"in total, there is exactly one lifeguard watching the swimmers","in total, there is more than one lifeguard watching the swimmers",A,surface,a,indefinite,all,universal
+349,A lifeguard watches all the swimmers.,"in total, there is more than one lifeguard watching the swimmers","in total, there is exactly one lifeguard watching the swimmers",B,surface,a,indefinite,all,universal
+682,One method was used by all researchers in the study.,Every researcher used the same method,Not every researcher used the same method,A,surface,one,number,all,universal
+682,One method was used by all researchers in the study.,Not every researcher used the same method,Every researcher used the same method,B,surface,one,number,all,universal
+632,One book was read by every member of the club.,Every member read the same book,Not every member read the same book,A,surface,one,number,every,universal
+632,One book was read by every member of the club.,Not every member read the same book,Every member read the same book,B,surface,one,number,every,universal
+703,Two songs were played at all concerts during the tour.,All concerts played the same two songs,Not all concerts played the same two songs,A,surface,two,number,all,universal
+703,Two songs were played at all concerts during the tour.,Not all concerts played the same two songs,All concerts played the same two songs,B,surface,two,number,all,universal
+490,Some birds can be seen in any part of the world.,The same birds can be seen in every part of the world.,Different birds can be seen in different parts of the world.,A,surface,some,existential,any,universal
+490,Some birds can be seen in any part of the world.,Different birds can be seen in different parts of the world.,The same birds can be seen in every part of the world.,B,surface,some,existential,any,universal
+496,Some songs are played every concert.,"each concert, the same songs are played","each concert, different songs are played",A,surface,some,existential,every,universal
+496,Some songs are played every concert.,"each concert, different songs are played","each concert, the same songs are played",B,surface,some,existential,every,universal
+460,A few key players influence every game.,The same key players influence every game.,Different key players influence each game.,A,surface,a few,existential,every,universal
+460,A few key players influence every game.,Different key players influence each game.,The same key players influence every game.,B,surface,a few,existential,every,universal
+492,A few stars are visible from every location on Earth.,The same stars are visible from every location on Earth.,Different stars are visible from different locations on Earth.,A,surface,a few,existential,every,universal
+492,A few stars are visible from every location on Earth.,Different stars are visible from different locations on Earth.,The same stars are visible from every location on Earth.,B,surface,a few,existential,every,universal
+634,Six players were selected for all the matches.,The same six players were selected for all the matches,Different six players were selected for each match,A,surface,six,number,all,universal
+634,Six players were selected for all the matches.,Different six players were selected for each match,The same six players were selected for all the matches,B,surface,six,number,all,universal
+647,Two chefs cooked for all the guests at the party.,the same two chefs cooked for all the guests at the party,a different pair of chefs cooked for each guest at the party,A,surface,two,number,all,universal
+647,Two chefs cooked for all the guests at the party.,a different pair of chefs cooked for each guest at the party,the same two chefs cooked for all the guests at the party,B,surface,two,number,all,universal
+626,Two of the scientists won every award.,The same two scientists won every award,Different scientists won different awards,A,surface,two,number,every,universal
+626,Two of the scientists won every award.,Different scientists won different awards,The same two scientists won every award,B,surface,two,number,every,universal
+643,Two teachers will supervise all the students.,the same two teachers will supervise all the students,a different pair of teachers will supervise each student,A,surface,two,number,all,universal
+643,Two teachers will supervise all the students.,a different pair of teachers will supervise each student,the same two teachers will supervise all the students,B,surface,two,number,all,universal
+659,One of the engineers is responsible for all the projects.,the same engineer is responsible for all the projects,different engineers are responsible for different projects,A,surface,one,number,all,universal
+659,One of the engineers is responsible for all the projects.,different engineers are responsible for different projects,the same engineer is responsible for all the projects,B,surface,one,number,all,universal
+653,One of the paintings was displayed in all galleries.,every gallery displayed the same painting,not every gallery displayed the same painting,A,surface,one,number,all,universal
+653,One of the paintings was displayed in all galleries.,not every gallery displayed the same painting,every gallery displayed the same painting,B,surface,one,number,all,universal
+683,Three of the ingredients are found in every recipe.,every recipe contains the same three ingredients,not every recipe contains the same three ingredients,A,surface,three,number,every,universal
+683,Three of the ingredients are found in every recipe.,not every recipe contains the same three ingredients,every recipe contains the same three ingredients,B,surface,three,number,every,universal

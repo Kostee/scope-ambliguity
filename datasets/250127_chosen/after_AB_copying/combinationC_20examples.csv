@@ -1,0 +1,41 @@
+idx,sentence,Option A,Option B,gold_ans,gold_scope_label,OP1,OP1_type,OP2,OP2_type
+389,A fire extinguisher is present on each floor of the building.,"in total, there is more than one fire extinguisher present across all building floors","in total, there is one fire extinguisher present across all building floors",A,inverse,a,indefinite,each,universal
+389,A fire extinguisher is present on each floor of the building.,"in total, there is one fire extinguisher present across all building floors","in total, there is more than one fire extinguisher present across all building floors",B,inverse,a,indefinite,each,universal
+261,The gardener plants exactly two trees in each yard.,Not all yards have the same two trees,All yards have the same two trees,A,inverse,exactly two,number,each,universal
+261,The gardener plants exactly two trees in each yard.,All yards have the same two trees,Not all yards have the same two trees,B,inverse,exactly two,number,each,universal
+268,Exactly one flag flies on each building.,not all buildings fly the same flag,all buildings fly the same flag,A,inverse,exactly one,number,each,universal
+268,Exactly one flag flies on each building.,all buildings fly the same flag,not all buildings fly the same flag,B,inverse,exactly one,number,each,universal
+274,Two slices of bread are in each sandwich.,there are more than two slices of bread in total,there are exactly two slices of bread in total,A,inverse,two,number,each,universal
+274,Two slices of bread are in each sandwich.,there are exactly two slices of bread in total,there are more than two slices of bread in total,B,inverse,two,number,each,universal
+368,A new product will be launched every quarter.,Different products will be launched in different quarters.,The same product will be launched every quarter.,A,inverse,a,indefinite,every,universal
+368,A new product will be launched every quarter.,The same product will be launched every quarter.,Different products will be launched in different quarters.,B,inverse,a,indefinite,every,universal
+287,The teacher will assign exactly two tasks each day.,"Each day, the teacher assigns different tasks.","Each day, the teacher assigns the same two tasks.",A,inverse,exactly two,number,each,universal
+287,The teacher will assign exactly two tasks each day.,"Each day, the teacher assigns the same two tasks.","Each day, the teacher assigns different tasks.",B,inverse,exactly two,number,each,universal
+355,A different movie will be shown each night.,There are more than two movies shown in total,There are exactly two movies shown in total,A,inverse,a,indefinite,each,universal
+355,A different movie will be shown each night.,There are exactly two movies shown in total,There are more than two movies shown in total,B,inverse,a,indefinite,each,universal
+284,The committee must include at least one representative of each of the five departments.,Not all committee representatives must be from the same department,All committee representatives must be from the same department,A,inverse,at least one,number,each,universal
+284,The committee must include at least one representative of each of the five departments.,All committee representatives must be from the same department,Not all committee representatives must be from the same department,B,inverse,at least one,number,each,universal
+279,The team must include at least one player of each of the four positions.,Not all team players must be of the same position,All team players must be of the same position,A,inverse,at least one,number,each,universal
+279,The team must include at least one player of each of the four positions.,All team players must be of the same position,Not all team players must be of the same position,B,inverse,at least one,number,each,universal
+262,The committee must include at least one representative from each department.,Not all departments send the same representative to the committee,All departments send the same representative to the committee,A,inverse,at least one,number,each,universal
+262,The committee must include at least one representative from each department.,All departments send the same representative to the committee,Not all departments send the same representative to the committee,B,inverse,at least one,number,each,universal
+518,A few employees from each department attended the meeting.,Different employees from each department attended the meeting.,The same employees from every department attended the meeting.,A,inverse,a few,existential,each,universal
+518,A few employees from each department attended the meeting.,The same employees from every department attended the meeting.,Different employees from each department attended the meeting.,B,inverse,a few,existential,each,universal
+263,The library lends exactly one book to each member.,Not all members borrow the same book from the library,All members borrow the same book from the library,A,inverse,exactly one,number,each,universal
+263,The library lends exactly one book to each member.,All members borrow the same book from the library,Not all members borrow the same book from the library,B,inverse,exactly one,number,each,universal
+409,A cup of coffee is offered to each guest at the party.,"In total, more than one cup of coffee is offered","In total, one cup of coffee is offered",A,inverse,a,indefinite,each,universal
+409,A cup of coffee is offered to each guest at the party.,"In total, one cup of coffee is offered","In total, more than one cup of coffee is offered",B,inverse,a,indefinite,each,universal
+306,Exactly five of the items will be assigned to each box.,Not all boxes will contain the same five items,All boxes will contain the same five items,A,inverse,exactly five,number,each,universal
+306,Exactly five of the items will be assigned to each box.,All boxes will contain the same five items,Not all boxes will contain the same five items,B,inverse,exactly five,number,each,universal
+258,There is exactly one apple for each child in the basket.,Not all children get the same apple from the basket,All children get the same apple from the basket,A,inverse,exactly one,number,each,universal
+258,There is exactly one apple for each child in the basket.,All children get the same apple from the basket,Not all children get the same apple from the basket,B,inverse,exactly one,number,each,universal
+264,The coach trains exactly five athletes for each event.,Not all events have the same five athletes,All events have the same five athletes,A,inverse,exactly five,number,each,universal
+264,The coach trains exactly five athletes for each event.,All events have the same five athletes,Not all events have the same five athletes,B,inverse,exactly five,number,each,universal
+265,The company provides at least one training session for each employee.,Not all employees attend the same training session,All employees attend the same training session,A,inverse,at least one,number,each,universal
+265,The company provides at least one training session for each employee.,All employees attend the same training session,Not all employees attend the same training session,B,inverse,at least one,number,each,universal
+300,Exactly one task per employee is assigned.,There is more than one task in total,There is exactly one task in total,A,inverse,exactly one,number,per,universal
+300,Exactly one task per employee is assigned.,There is exactly one task in total,There is more than one task in total,B,inverse,exactly one,number,per,universal
+307,One ticket per person was sold.,"In total, more than one ticket was sold","In total, only one ticket was sold",A,inverse,one,number,per,universal
+307,One ticket per person was sold.,"In total, only one ticket was sold","In total, more than one ticket was sold",B,inverse,one,number,per,universal
+277,"He has exactly two meetings with Johnson, and exactly one with each of the other colleagues.",There is more than one meeting he has in total with the other colleagues,There is exactly one meeting he has in total with the other colleagues,A,inverse,exactly one,number,each,universal
+277,"He has exactly two meetings with Johnson, and exactly one with each of the other colleagues.",There is exactly one meeting he has in total with the other colleagues,There is more than one meeting he has in total with the other colleagues,B,inverse,exactly one,number,each,universal

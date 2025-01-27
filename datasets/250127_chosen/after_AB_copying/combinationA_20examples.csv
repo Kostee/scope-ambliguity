@@ -1,0 +1,41 @@
+idx,sentence,Option A,Option B,gold_ans,gold_scope_label,OP1,OP1_type,OP2,OP2_type
+175,Each of the five friends ordered a dish at the restaurant.,there is more than one dish in total,there is exactly one dish in total,A,surface,each,universal,a,indefinite
+175,Each of the five friends ordered a dish at the restaurant.,there is exactly one dish in total,there is more than one dish in total,B,surface,each,universal,a,indefinite
+213,The coach assigns each player to a position on the field.,not all players are assigned to the same position,all players are assigned to the same position,A,surface,each,universal,a,indefinite
+213,The coach assigns each player to a position on the field.,all players are assigned to the same position,not all players are assigned to the same position,B,surface,each,universal,a,indefinite
+214,Every chef in the competition uses a different cooking technique.,"in total, there are more than two cooking techniques","in total, there are only two cooking techniques",A,surface,every,universal,a,indefinite
+214,Every chef in the competition uses a different cooking technique.,"in total, there are only two cooking techniques","in total, there are more than two cooking techniques",B,surface,every,universal,a,indefinite
+242,Every student received a grade on the test.,not all the students received the same grade,all the students received the same grade,A,surface,every,universal,a,indefinite
+242,Every student received a grade on the test.,all the students received the same grade,not all the students received the same grade,B,surface,every,universal,a,indefinite
+1074,Each house has exactly five windows.,Not all houses have the exact same five windows,All houses have the exact same five windows,A,surface,each,universal,exactly five,number
+1074,Each house has exactly five windows.,All houses have the exact same five windows,Not all houses have the exact same five windows,B,surface,each,universal,exactly five,number
+182,Each student in the class has a textbook.,there is more than one textbook in total for the class,there is only one textbook in total for the class,A,surface,each,universal,a,indefinite
+182,Each student in the class has a textbook.,there is only one textbook in total for the class,there is more than one textbook in total for the class,B,surface,each,universal,a,indefinite
+187,Every planet in the solar system has an orbit.,there is more than one orbit across all planets in the solar system,there is only one orbit across all planets in the solar system,A,surface,every,universal,a,indefinite
+187,Every planet in the solar system has an orbit.,there is only one orbit across all planets in the solar system,there is more than one orbit across all planets in the solar system,B,surface,every,universal,a,indefinite
+180,Every country in the world has a flag.,there is more than one flag in total,there is exactly one flag in total,A,surface,every,universal,a,indefinite
+180,Every country in the world has a flag.,there is exactly one flag in total,there is more than one flag in total,B,surface,every,universal,a,indefinite
+1068,Each player gets exactly two cards.,Not all players get the exact same two cards,All players get the exact same two cards,A,surface,each,universal,exactly two,number
+1068,Each player gets exactly two cards.,All players get the exact same two cards,Not all players get the exact same two cards,B,surface,each,universal,exactly two,number
+1090,Each participant receives exactly one prize.,not all participants receive the same prize,all participants receive the same prize,A,surface,each,universal,exactly one,number
+1090,Each participant receives exactly one prize.,all participants receive the same prize,not all participants receive the same prize,B,surface,each,universal,exactly one,number
+1099,Each shelf is occupied by exactly one of the books.,there is more than one book in total,there is exactly one book in total,A,surface,each,universal,exactly one,number
+1099,Each shelf is occupied by exactly one of the books.,there is exactly one book in total,there is more than one book in total,B,surface,each,universal,exactly one,number
+1057,Each box contains exactly six balls.,not all boxes contain the exact same six balls,all boxes contain the exact same six balls,A,surface,each,universal,exactly six,number
+1057,Each box contains exactly six balls.,all boxes contain the exact same six balls,not all boxes contain the exact same six balls,B,surface,each,universal,exactly six,number
+1052,Every car has exactly four tires.,not all cars have the exact same four tires,all cars have the exact same four tires,A,surface,every,universal,exactly four,number
+1052,Every car has exactly four tires.,all cars have the exact same four tires,not all cars have the exact same four tires,B,surface,every,universal,exactly four,number
+1054,Every tree has exactly three branches.,not all trees have the exact same three branches,all trees have the exact same three branches,A,surface,every,universal,exactly three,number
+1054,Every tree has exactly three branches.,all trees have the exact same three branches,not all trees have the exact same three branches,B,surface,every,universal,exactly three,number
+1072,Each artist paints with one color.,Not all artists paint with the same color,All artists paint with the same color,A,surface,each,universal,one,number
+1072,Each artist paints with one color.,All artists paint with the same color,Not all artists paint with the same color,B,surface,each,universal,one,number
+219,Every athlete competes in a sport.,not all the athletes compete in the same sport,all the athletes compete in the same sport,A,surface,every,universal,a,indefinite
+219,Every athlete competes in a sport.,all the athletes compete in the same sport,not all the athletes compete in the same sport,B,surface,every,universal,a,indefinite
+220,Each of the five teams will play on a different day.,there is more than one day in total during which the games take place,there is exactly one day in total during which the games take place,A,surface,each,universal,a,indefinite
+220,Each of the five teams will play on a different day.,there is exactly one day in total during which the games take place,there is more than one day in total during which the games take place,B,surface,each,universal,a,indefinite
+1081,Each week exactly one of the employees is on vacation.,not all weeks involve the same employee on vacation,all weeks involve the same employee on vacation,A,surface,each,universal,exactly one,number
+1081,Each week exactly one of the employees is on vacation.,all weeks involve the same employee on vacation,not all weeks involve the same employee on vacation,B,surface,each,universal,exactly one,number
+235,Each team plays in a stadium.,not all teams play in the same stadium,all teams play in the same stadium,A,surface,each,universal,a,indefinite
+235,Each team plays in a stadium.,all teams play in the same stadium,not all teams play in the same stadium,B,surface,each,universal,a,indefinite
+195,Each chef in the restaurant is responsible for a dish.,there is more than one dish in total,there is exactly one dish in total,A,surface,each,universal,a,indefinite
+195,Each chef in the restaurant is responsible for a dish.,there is exactly one dish in total,there is more than one dish in total,B,surface,each,universal,a,indefinite
