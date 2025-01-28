@@ -21,7 +21,7 @@ do
     BASENAME=$(basename "$FILE" .csv)
     echo "Processing $BASENAME..."
 
-    python scripts/dataset_expansion/exp1_dataset_expansion_241221updated.py \
+    python scripts/dataset_expansion/exp1_dataset_expansion_241221.py \
         --openai-api-key "$OPENAI_API_KEY" \
         --source-dataset-filepath "$INPUT_DIR/$FILE" \
         --generated-data-directory "$OUTPUT_DIR" \

@@ -6,7 +6,9 @@ import numpy as np
 import pandas as pd
 from tqdm import tqdm
 import random
-import openai 
+import openai
+
+MODEL = "gpt-4o"
 
 def main():
     parser = argparse.ArgumentParser()
@@ -64,7 +66,7 @@ def GPT4_generation_from_sample(sample: pd.DataFrame, n_generated: int):
     total_prompt = exp_preamble+examples+exp_demand
     
     GPT4_response_raw = openai.chat.completions.create(
-        model="gpt-4o",
+        model=MODEL,
         messages=[{"role": "system", "content": "You are a helpful model that helps build text-based datasets, but does not produce any conversation besides the text it is asked to produce."},
                 {"role": "user", "content": total_prompt}],
         temperature=0.0)
@@ -73,7 +75,7 @@ def GPT4_generation_from_sample(sample: pd.DataFrame, n_generated: int):
     
     return GPT4_response_string
 
-# Conversion from GPT-4 output to dictionary
+# Conversion from model output to dictionary
 def jsonl_string_to_dictlist(jsonl_string):
     list_of_dicts = []
     lines = jsonl_string.split('\n')
@@ -113,7 +115,7 @@ def generate_data(args):
     for key in tqdm(subsets.keys()):
         # Skip if .jsonl already made for this category -- hacky fix for reruns forced by API issues (can be removed if intention is to delibrately resample for completed categories)
         keystring = str(key)
-        filename = f"{keystring}_GPT4_generated.jsonl"
+        filename = f"{keystring}_{MODEL}_generated.jsonl"
         if filename in os.listdir(generated_data_directory): # move to next category if there's already an associated file of generations in the directory
             continue
         else:
